@@ -63,10 +63,10 @@ author:
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "München, DE"
-      icon: "fas fa-map-marker-alt"
+      icon: "fas fa-fw fa-map-marker-alt"
       url: "https://www.google.com/maps/place/Munich"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/rafalkulaga/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
