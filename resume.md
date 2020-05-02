@@ -22,7 +22,7 @@ date: August 28 April, 2020
 At Siemens I joined Corporate Technology Department, which is responsible for creation and feasibility studies of bleeding-edge solutions, that are not yet available in the industry. 
 
 
-<img align="right" src="\assets\images\bentley_logo.png" width="95" height="95"/>
+<img align="right" src="\assets\images\bentley_logo.PNG" width="95" height="95"/>
 ### (Virtual) Powertrain Developement - Internship
 
 <i class="fas fa-building"></i>  [Bentley Motors](https://www.bentleymotors.com/en.html) &emsp;   <i class="fas fa-map-marker-alt"> </i>  Crewe, UK &emsp; <i class="fas fa-hourglass-half"> </i> 12 mos, full-time   &emsp;  <i class="fas fa-award"> </i> Score: *Exceeds requirements* 
@@ -48,7 +48,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod  tempor 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea  commodo consequat. Duis aute irure dolor in reprehenderit in voluptate  velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint  occaecat cupidatat non proident, sunt in culpa qui officia deserunt  mollit anim id est laborum. <br/><br/>
 
 
-<img align="right" src="\assets\images\pwr_logo.png" width="75" height="75"/>
+<img align="right" src="\assets\images\pwr_logo.PNG" width="75" height="75"/>
 ### Control Engineering and Robotics, BEng
 
 <i class="fas fa-university"></i>  [Wroclaw Univ. of Sci. & Tech.](https://www.pwr.edu.pl/en/) &ensp;  <i class="fas fa-graduation-cap"> </i> very good &ensp;  <i class="fas fa-award"> </i> Rector's scholarship (top 10%)
