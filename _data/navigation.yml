@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "About"
-    url: https://rafalkulaga.github.io/about
-  - title: "CV"
-    url: https://rafalkulaga.github.io/cv
+    url: /index.html/
+  - title: "Resume"
+    url: /resume/
   - title: "Projects"
-    url: https://rafalkulaga.github.io/projects
-  - title: "Empty"
-    url: https://rafalkulaga.github.io/projects
+    url: /projects/
+  #- title: "Empty"
+  #  url: https://rafalkulaga.github.io/projects
