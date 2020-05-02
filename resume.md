@@ -14,7 +14,7 @@ date: August 28 April, 2020
 <center> <h1>Professional Experience </h1> </center>
 ***
 
-<img align="right" src="\assets\images\siemens_logo.png" width="75" height="75"/>
+<img align="right" src="\assets\images\siemens_logo.PNG" width="75" height="75"/>
 ### Software Development/Machine Learning - Internship
 
 <i class="fas fa-building"></i>  [Siemens AG](https://new.siemens.com/global/en.html) &emsp;   <i class="fas fa-map-marker-alt"> </i>  München, DE &emsp; <i class="fas fa-hourglass-half"> </i> 7 mos, part-time   &emsp;  <i class="fas fa-award"> </i> Patent (pending)
