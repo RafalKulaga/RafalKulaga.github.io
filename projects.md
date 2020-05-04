@@ -51,19 +51,6 @@ During MSc studies I completed two lab courses focused on fluid dynamics simulat
 <br/> <br/>
 
 
-### Handwritten Digits Recognition: Machine Learning Classic
-
-<i class="fas fa-globe"></i>  [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) &ensp; &ensp;  <i class="fas fa-award"> </i> [Certificate](/assets/images/ML_Certificate.pdf) 
-<br/> 
-<div style="text-align: justify"> 
-<img  align="right" src="\assets\images\ml_1.PNG" height="150" width="150"/>
-Before starting my machine learning-oriented master's thesis, I took probably the most popular ML course in the world, i.e. the class by Andrew Ng. It provided fundamental knowledge about ML techniques and access to short but gripping projects such as digit recognition or spam detection. <br/>
-</div>
-<br/>
-<img  src="\assets\images\matlab_logo.PNG" width="130" height="130"/> &nbsp;
-<img  src="\assets\images\windows_logo.png" width="70" height="70"/> &nbsp;
-<br/><br/>
-
 ### Virtual Sensors and Optimal Allocation Problem: Projects at Siemens
 
 <i class="fas fa-building"></i>  [Siemens AG](https://new.siemens.com/global/en.html) &ensp; <i class="fas fa-hourglass-half"> </i> > 500h    &ensp;  <i class="fas fa-award"> </i> Patent (pending) <br/>
@@ -85,6 +72,19 @@ Although optimal allocation project is going to be published as a scientific pap
 <img  src="\assets\images\json_logo.png" width="60" height="60"/> &nbsp;
 <img  src="\assets\images\windows_logo.png" width="70" height="70"/> &nbsp;
 <br/> <br/>
+
+### Handwritten Digits Recognition: Machine Learning Classic
+
+<i class="fas fa-globe"></i>  [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) &ensp; &ensp;  <i class="fas fa-award"> </i> [Certificate](/assets/images/ML_Certificate.pdf) 
+<br/> 
+<div style="text-align: justify"> 
+<img  align="right" src="\assets\images\ml_1.PNG" height="150" width="150"/>
+Before starting my machine learning-oriented master's thesis, I took probably the most popular ML course in the world, i.e. the class by Andrew Ng. It provided fundamental knowledge about ML techniques and access to short but gripping projects such as digit recognition or spam detection. <br/>
+</div>
+<br/>
+<img  src="\assets\images\matlab_logo.PNG" width="130" height="130"/> &nbsp;
+<img  src="\assets\images\windows_logo.png" width="70" height="70"/> &nbsp;
+<br/><br/>
 
 
 
