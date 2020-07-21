@@ -7,7 +7,7 @@ header:
     overlay_image: /assets/images/resume_head.jpg
     caption: "Da Nang, 09/2018"
 classes: wide
-date: 09 May, 2020
+date: 21 July, 2020
 ---
 
 
@@ -56,6 +56,14 @@ Computational Science and Engineering (CSE) programme focuses on solving very co
 <i class="fas fa-university"></i>  [Wroclaw Univ. of Sci. & Tech.](https://www.pwr.edu.pl/en/) &ensp;  <i class="fas fa-graduation-cap"> </i> very good &ensp;  <i class="fas fa-award"> </i> Rector's scholarship (top 10%)
 
 Control Engineering and Robotics was for me a broad and comprehensive degree - a springboard that allowed further self-development in many different directions. On the one hand, I was trained in control theory and programming (e.g. in C/C++). On the other hand, I learnt about principles of mechanical engineering and design. To my mind, such mixture is especially beneficial while working in the industry, as it enables holistic understanding of processes and greatly improves communication between different functions.
+<br/><br/>
+
+<center> <h1>Other</h1> </center>
+***
+
+### Intensive German Course: From B2 to C1
+
+<i class="fas fa-university"></i>  [Deutsch Akademie](https://www.deutschakademie.de/)
 <br/><br/>
 
 
