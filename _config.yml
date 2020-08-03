@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Rafal Kulaga"
   avatar           : "/assets/images/bio_1.jpg"
-  bio              : "Computational science graduate with passion for automotive engineering and enthusiasm for data science. <br/><br/> Speaks: <img src='/assets/images/british_flag.png' style='width: 20px; height: 20px;'> <img src='/assets/images/german_flag.png' style='width: 20px; height: 20px;'> <img src='/assets/images/polish_flag.png' style='width: 20px; height: 20px;'>"
+  bio              : "Computational science graduate with passion for (automotive) technology and enthusiasm for data science. <br/><br/> Speaks: <img src='/assets/images/british_flag.png' style='width: 20px; height: 20px;'> <img src='/assets/images/german_flag.png' style='width: 20px; height: 20px;'> <img src='/assets/images/polish_flag.png' style='width: 20px; height: 20px;'>"
   location         : "München, DE"
   email            :
   links:
